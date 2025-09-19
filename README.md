@@ -14,11 +14,15 @@ $ git submodule update --init
 $ make
 $ sudo make install
 ```
+![yosys](Images/yosys.png)
 ### Iverilog
 ```bash
 $ sudo apt-get install iverilog
 ```
+![iverilog](Images/iverilog.png)
 ### GTKWave
 ```bash
 $ sudo apt install gtkwave
 ```
+![gtkwave](Images/gtkwave_command.png)
+![gtkwave](Images/gtkwave_window.png)
